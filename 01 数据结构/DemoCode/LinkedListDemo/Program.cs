@@ -9,12 +9,12 @@ namespace LinkedListDemo {
         static void Main(string[] args) {
             ListTest();
             LinkedListTest();
-            LinkedListTest2();
+            //LinkedListTest2();
 
 
-            ListTest();
-            LinkedListTest();
-            LinkedListTest2();
+            //ListTest();
+            //LinkedListTest();
+            //LinkedListTest2();
             Console.ReadLine();
         }
 
